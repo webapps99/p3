@@ -15,7 +15,7 @@
 
 	<div class="directions">
 
-		<h1 align="center">Lorem Ipsum Generator</h1>
+		<h1>Lorem Ipsum Generator</h1>
 
 	</div>
 

@@ -14,7 +14,7 @@
 
 	<div class="directions">
 
-		<h1 align="center">Faker - Generate Random Users</h1>
+		<h1>Faker - Generate Random Users</h1>
 
 	</div>
 
