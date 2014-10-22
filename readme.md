@@ -1,25 +1,28 @@
-## Laravel PHP Framework
+# Laravel Basics
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+----
+## Live URL
+<http://p3.dwa15-cnystrom.com/>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+----
+## Description
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+The purpose of this project is to set up a Laravel-based site. This project demonstrates an
+understanding of the creation of a Laravel application, installing and using Composer packages(Lorem-Ipsum and Faker), Routing basics, creating Views and the deployment of the Laravel application on our live server. The Lorem-Ipsum package is used to create random content in the form of paragraphs and the Faker package is used to create Random Users.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+----
+## Demo
 
-## Official Documentation
+Plan to attend Section on Tuesday, October 28, @ 7:30pm EST to complete live demo.
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+----
+## Details for Teaching Team
+See site instructions to walk through demo.
 
-### Contributing To Laravel
+----
+## Outside Code
+-Package: badcow/lorem-ipsum <https://packagist.org/packages/badcow/lorem-ipsum>
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+-Package: fzaninotto/faker <https://packagist.org/packages/fzaninotto/faker>
 
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+-Bootstrap CDN: <https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css>
