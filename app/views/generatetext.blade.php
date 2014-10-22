@@ -9,7 +9,7 @@
 
 @section("content")
 
-<a href='/'>&larr; Home</a>
+
 
 	<br>
 
