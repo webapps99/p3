@@ -1,0 +1,121 @@
+
+.custombutton {
+    width: 175px;
+    height: 50px;
+    font-size: 24px;
+    align:left;
+
+
+}
+
+.clearboth {
+    clear: both;
+}
+
+.directions {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 85%;
+}
+
+.directionstext {
+    font-size: 18px;
+    text-align: center;
+}
+
+table {
+    width: 67%;
+
+}
+
+td {
+    text-align:center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#headerimage {
+    width: 69%;
+
+}
+
+#warning {
+    color: #a0001c;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+/** master.blade.php CSS **/
+
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    margin-bottom: 50px;
+    color: #494047;
+    background-color: #153167;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    min-width: 700px;
+    max-width: 1083px;
+    background-color: white;
+    min-height: 100%;
+}
+
+/** hello.blade.php CSS **/
+
+#sidebarimage {
+    float:left;
+    width: 31%;
+    /** width: 350px;
+    height: 1000px;**/
+}
+
+#welcome {
+    display: block;
+    padding: 20px;
+    width: 65%;
+}
+
+#welcometext {
+    font-size: 25px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+/** generatetext.blade.php and randomuser.blade.php CSS **/
+
+#fillerform {
+    font-size: 20px;
+    display: block;
+    width: 70%;
+    padding: 30px;
+    float: left;
+}
+
+#outputarea {
+    padding-left: 60px;
+    padding-right: 60px;
+    word-wrap: normal;
+    display: block;
+}
+
+/** this ID is also used on generate.php and randomuser.php logic files **/
+#actualoutput {
+    font-size: 14px;
+}
+
+/** randomuser.php CSS **/
+
+#userdatalabel {
+    color: #494047;
+    font-weight: bold;
+}
+
